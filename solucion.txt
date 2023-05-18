@@ -1,0 +1,5 @@
+FNC:
+p | ˜q ˜ p | q q | ˜ r ˜ q | ˜ r
+
+Literales que hacen verdadera la FNC:
+, p, q, r, ˜, ˜q
